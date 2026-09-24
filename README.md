@@ -1,4 +1,8 @@
+<img src="https://raw.githubusercontent.com/skmalikllc/automation-portfolio/main/assets/cover-jotform.png" alt="cover" width="100%">
+
 # Jotform Forms & Client Intake Workflows — case studies
+
+`SANITIZED CLIENT CASE STUDY`
 
 **Project type:** Sanitized client case study
 **Evidence sources:** completed Fiverr orders, public client review, historical account audit
