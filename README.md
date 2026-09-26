@@ -12,6 +12,30 @@ Building the form a business collects work through, and the structure behind it.
 
 ---
 
+## Verified delivery volume
+
+`AUDITED 26 SEPTEMBER 2026`
+
+| | |
+|---|---|
+| Completed orders in this service line | **5** |
+| Of those, carrying a buyer rating | **3** |
+| Ratings observed | all 5 stars |
+| Largest single engagement observed | $525 |
+| Reviewed window | July 2026 – August 2026 |
+
+Counted from the 103 of 221 completed orders individually reviewed before the
+platform presented a human-verification step and the audit stopped. Orders in
+this line may exist among the remaining 118; they are not estimated.
+
+**What is not claimed.** Conditional logic, downstream integrations and
+submission routing are not described for these engagements, because the audit
+recorded the service line, date, value and rating — not the build detail. Where a
+form used branching or routing, that belongs to the client's own setup and is
+not reconstructed here.
+
+---
+
 ## Problem
 
 Most small businesses collect enquiries through a form that was set up once and
@@ -54,4 +78,5 @@ a review the client published publicly; the username is omitted.
 ## Related
 
 - [automation-client-case-studies](https://github.com/skmalikllc/automation-client-case-studies)
+- [fiverr-project-archive](https://github.com/skmalikllc/fiverr-project-archive)
 - [automation-portfolio](https://github.com/skmalikllc/automation-portfolio)
